@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [José Ángel Alamillo](mailto:joseangel.alamillo@owasp.org)
+* [Balam Sánchez Ibarra](mailto:balamsanchez.ibarra@owasp.org)
+* [Jorge Ortíz](mailto:jorge.ortiz@owasp.org)
