@@ -14,15 +14,15 @@ Agradecemos a nuestros patrocinadores por el apoyo en todos los eventos realizad
   
 <tr>
 <td width="30%">
-<a href="https://www.teciberseguridad.com"><img src="assets/images/Coberseguridad-logo.png" alt="STC"/></a>
+<a href="https://www.academia-ciberseguridad.com.com"><img src="assets/images/Coberseguridad-logo.png" alt="Academia de Ciberseguridad"/></a>
 </td>
 
 <td width="30%">
-<a href="https://www.websec.mx"><img src="assets/images/sponsors/2017/logo_websec.png" alt="Websec"/></a>
+<a href="https://www.facebook.com/UAZHacking/"><img src="assets/images/uaz.png" alt="Comunidad UAZ Hacking"/></a>
 </td>
 
 <td width="30%">
-<a href="https://www.academia-ciberseguridad.com"><img src="assets/images/STC%20B1N%20cg.png" alt="Academia de Ciberseguridad"/></a
+<a href="https://www.teciberseguridad.com"><img src="assets/images/STC%20B1N%20cg.png" alt="Soluciones en Tecnología"/></a
 </td>
     
 </tr>
