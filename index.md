@@ -28,6 +28,9 @@ Nuestra misión es generar una comunidad orientada a la Ciberseguridad en el ár
   <li>Como expositor.</li>
   <li>Realizando donaciones.</li>
 </ul>
+<br>
+<p ALIGN="justify">Nos puedes buscar en redes sociales o contactar directamente con los Lideres <a rel="nofollow" class="external text" href="mailto:joseangel.alamillo@owasp.org">Ángel Alamillo</a>, <a rel="nofollow" class="external text" href="mailto:balamsanchez.ibarra@owasp.org">Balam Sánchez</a> o <a rel="nofollow" class="external text" href="mailto:jorge.ortiz@owasp.org">Jorge Ortíz.</a></p>
+<br>
 
 
 
