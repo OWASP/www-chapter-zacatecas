@@ -1,8 +1,9 @@
 ---
 title: Anuncios
-displaytext: Anuncios
-layout: null
+layout:  null
 tab: true
 order: 1
 tags: anuncios
 ---
+
+## Anuncios
