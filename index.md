@@ -18,7 +18,18 @@ Nuestra misión es generar una comunidad orientada a la Ciberseguridad en el ár
 <p ALIGN="justify">La Fundación OWASP <a rel="nofollow" class="external text" href="https://docs.google.com/a/owasp.org/presentation/d/1ZgY25F0F7QgScMlB1X7LAa70LtyJql8XqcYdR4suPUo/edit#slide=id.p">(Presentación)</a> es una asociación profesional conformada por miembros internacionales, libre y abierta a todo aquel que desee aprender más sobre la seguridad en el software. Los capítulos locales son administrados de manera independiente tomando como guía el Manual del Líder de Capítulo (<a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Chapter_Leader_Handbook">Chapter_Leader_Handbook</a>). Conforme a su categoría <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/About_OWASP">501(c)(3)</a> como asociación profesional sin fines de lucro, tu apoyo y patrocinio para proporcionar instalaciones o bebidas pueden ser deducibles de impuestos. Las contribuciones financieras únicamente deben de ser realizadas en línea, por medio del botón autorizado de donación para el capítulo. Para participar como Ponente en CUALQUIER CAPITULO DE OWASP en cualquier parte del mundo, es necesario revisar el <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Speaker_Agreement">acuerdo de ponente</a> y contactar al líder del capítulo local con los detalles del tema que se desea exponer, ya sea un PROYECTO DE OWASP, una investigación independiente o cualquier tema relacionado con la seguridad del software.</p>
 <br>
 
-## Patrocinadores del Capítulo
+## Contribución y Donaciones
+¿Deseas contribuir con OWASP Chapter Zacatecas? <br>
+<ul>
+  <li>Formando parte de nuestra lista de distribución.</li>
+  <li>Participando en nuestros eventos y promoviendo el capítulo.</li>
+  <li>Contribuyendo en la generación de contenido para eventos.</li>
+  <li>Como patrocinador.</li>
+  <li>Como expositor.</li>
+  <li>Realizando donaciones.</li>
+</ul>
+
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
