@@ -1,8 +1,11 @@
 ---
 title: Sponsors
-displaytext: Nuestros Eventos
-layout: null
+layout:  null
 tab: true
-order: 2
+order: 1
 tags: sponsors
 ---
+
+## Sponsors
+
+Gracias a los siguientes sponsors hemos podido llevar a cabo grandes eventos!
