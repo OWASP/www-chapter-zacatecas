@@ -3,7 +3,7 @@ title: Anuncios
 layout:  null
 tab: true
 order: 1
-tags: anuncios
+tags: example-tag
 ---
 
 ## Anuncios
