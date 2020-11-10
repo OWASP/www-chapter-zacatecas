@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Anuncios
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: anuncios
 ---
 
 ## Example
