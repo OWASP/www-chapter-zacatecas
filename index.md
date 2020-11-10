@@ -11,7 +11,6 @@ region: North America
 Bienvenido a la página principal del capítulo OWASP Zacatecas.
 <p ALIGN="justify">OWASP (Open Web Application Security Project) es una organización mundial sin fines de lucro dedicada a mejorar la seguridad de software.
 Nuestra misión es generar una comunidad orientada a la Ciberseguridad en el área Zacatecana y Nacional, para hacer crecer conocimientos entre todos los apasionados del área. Siempre estamos abiertos a nuevos proyectos colaborativos con la finalidad de provomer y organizar eventos para ayudar a la comunidad en todo momento.</p>
-<br>
 <p ALIGN="justify">Nos puedes buscar en redes sociales o contactar directamente con los Lideres <a rel="nofollow" class="external text" href="mailto:joseangel.alamillo@owasp.org">Ángel Alamillo</a>, <a rel="nofollow" class="external text" href="mailto:balamsanchez.ibarra@owasp.org">Balam Sánchez</a> o <a rel="nofollow" class="external text" href="mailto:jorge.ortiz@owasp.org">Jorge Ortíz</a></p>
 <br>
 
