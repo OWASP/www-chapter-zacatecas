@@ -2,8 +2,8 @@
 title: Sponsors
 layout:  null
 tab: true
-order: 1
-tags: sponsors
+order: 4
+tags: example-tag
 ---
 
 ## Sponsors
