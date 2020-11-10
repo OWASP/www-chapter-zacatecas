@@ -27,7 +27,7 @@ tags: example-tag
     </tr>
     <tr>
       <td><b>Sitio Web</b> </td>
-      <td> <a rel="nofollow" class="external free" href="https://owasp.org/www-event-2020-latam-at-home/">https://owasp.org/www-event-2020-latam-at-home/</a></td>
+      <td> <a rel="nofollow" class="external free" href="https://owasp.org/www-chapter-zacatecas/">https://owasp.org/www-chapter-zacatecas/</a></td>
     </tr>
     <tr>
       <td><b>Registro</b></td>
