@@ -22,7 +22,7 @@ Agradecemos a nuestros patrocinadores por el apoyo en todos los eventos realizad
 </td>
 
 <td width="30%">
-<a href="https://www.teciberseguridad.com"><img src="assets/images/STC%20B1N%20cg.png" alt="Soluciones en Tecnología"/></a
+<a href="https://www.teciberseguridad.com"><img src="assets/images/STC%20B1N%20cg.png" alt="Soluciones en Tecnología"/></a>
 </td>
     
 </tr>
