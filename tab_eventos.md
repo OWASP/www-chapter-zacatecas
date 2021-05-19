@@ -31,8 +31,7 @@ tags: example-tag
     </tr>
     <tr>
       <td><b>Sesión 1</b></td>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ge404_mLItw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
+      <td><b>https://www.youtube.com/embed/ge404_mLItw</b></td>      
     </tr>
   </tbody>
 </table>
