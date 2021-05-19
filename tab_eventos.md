@@ -33,6 +33,10 @@ tags: example-tag
       <td><b>Sesión 1</b></td>
       <td><b>https://www.youtube.com/embed/ge404_mLItw</b></td>      
     </tr>
+    <tr>
+      <td><b>Sesión 2</b></td>
+      <td><b>https://www.youtube.com/embed/FDiyfOkXu38</b></td>        
+    </tr>
   </tbody>
 </table>
 <br>
