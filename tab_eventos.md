@@ -31,11 +31,11 @@ tags: example-tag
     </tr>
     <tr>
       <td><b>Sesión 1</b></td>
-      <td><b>https://www.youtube.com/embed/ge404_mLItw</b></td>      
+      <td><b>https://youtu.be/ge404_mLItw</b></td>      
     </tr>
     <tr>
       <td><b>Sesión 2</b></td>
-      <td><b>https://www.youtube.com/embed/FDiyfOkXu38</b></td>        
+      <td><b>https://youtu.be/FDiyfOkXu38</b></td>        
     </tr>
   </tbody>
 </table>
