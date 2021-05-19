@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Zacatecas
 tags: example-tag
 region: North America
+meetup-group:  owasp-zacatecas-meetup-group
 
 ---
 
