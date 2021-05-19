@@ -30,8 +30,9 @@ tags: example-tag
       <td> <a rel="nofollow" class="external free" href="https://owasp.org/www-chapter-zacatecas/">https://owasp.org/www-chapter-zacatecas/</a></td>
     </tr>
     <tr>
-      <td><b>Registro</b></td>
-      <td> La entrada a las conferencias es gratuita con previo registro. <a rel="nofollow" class="external text" href="http://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974?discount=Conferencias-ES">REGISTRATE AQUÍ</a></td>
+      <td><b>Sesión 1</b></td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ge404_mLItw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
     </tr>
   </tbody>
 </table>
