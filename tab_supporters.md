@@ -1,12 +1,12 @@
 ---
-title: Sponsors
+title: Supporters
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Sponsors
+## Supporters
 Agradecemos a nuestros patrocinadores por el apoyo en todos los eventos realizados:
 <br>
 
