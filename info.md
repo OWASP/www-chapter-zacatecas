@@ -1,7 +1,7 @@
 ### Zacatecas Information
 * [Hazte miembro](https://www.owasp.org/index.php/Membership)
 * [Unete a nuestra lista de correos](https://groups.google.com/d/forum/owasp-chapter-zacatecas)
-* [Conoce nuestros eventos](https://www.meetup.com/es/owasp-zacatecas-meetup-group/)
+* [Conoce nuestros eventos](https://www.meetup.com/es/owasp-zacatecas-meetup-group)
 
 https://www.meetup.com/es/owasp-zacatecas-meetup-group/
 
