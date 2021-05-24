@@ -6,7 +6,8 @@ order: 1
 tags: example-tag
 ---
 
-## Próximos eventos
+Próximos Eventos
+---------------
 <br>
 <hr>
 <h3>Diciembre 2020</h3>
